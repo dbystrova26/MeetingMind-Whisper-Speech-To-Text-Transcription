@@ -1,4 +1,4 @@
-# Whisper Speech-To-Text (STT) Implementation Lab
+# MeetingMind — Whisper Speech-To-Text Transcription System
 
 Audio transcription system built with OpenAI Whisper API. Implements chunking for long recordings, timestamp extraction, and comparison between prompted and unprompted transcription approaches — applied to a real business scenario: transcribing meeting recordings for a client.
 
